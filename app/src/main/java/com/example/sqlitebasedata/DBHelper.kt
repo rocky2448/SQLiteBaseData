@@ -26,7 +26,7 @@ class DBHelper(context: Context, factory: SQLiteDatabase.CursorFactory?) :
                 KEY_ROLE + " TEXT" + ")")
         db.execSQL(query)
     }
-    //CREATE TABLE table_name (column1 datatype, column2 datatype, column3 datatype);
+    //CREATE TABLE table_name (column1 datatype, column2 datatype, column3 datatype)
     override fun onUpgrade(db: SQLiteDatabase, oldVersion: Int, newVersion: Int) {
         db.execSQL("DROP TABLE IF EXISTS $TABLE_NAME")
     }

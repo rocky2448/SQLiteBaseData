@@ -10,4 +10,6 @@
     <string name="roleTV">Должность</string>
     <string name="emptyField">\n\n</string>
     <string name="exit">Выход</string>
+    <string name="startBTN">Начать работу</string>
+    <string name="base_data">База данных</string>
 </resources>
