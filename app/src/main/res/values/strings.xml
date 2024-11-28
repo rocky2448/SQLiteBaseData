@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">База данных</string>
+    <string name="nameET">Введите имя</string>
+    <string name="ageET">Введите возраст</string>
+    <string name="saveBTN">Сохранить данные</string>
+    <string name="loadBTN">Загрузить данные</string>
+    <string name="clearBTN">Очистить БД</string>
+    <string name="nameTV">Имя</string>
+    <string name="ageTV">Возраст</string>
+    <string name="roleTV">Должность</string>
+    <string name="emptyField">\n\n</string>
+    <string name="exit">Выход</string>
+</resources>
